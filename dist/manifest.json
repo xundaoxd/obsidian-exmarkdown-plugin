@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-exmarkdown-plugin",
+	"name": "ExMarkdown Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a exmarkdown plugin for Obsidian.",
+	"author": "xundaoxd",
+	"authorUrl": "https://github.com/xundaoxd",
+	"isDesktopOnly": false
+}
