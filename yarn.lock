@@ -242,6 +242,11 @@
     "@typescript-eslint/types" "5.29.0"
     eslint-visitor-keys "^3.3.0"
 
+"@viz-js/viz@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@viz-js/viz/-/viz-3.0.1.tgz#c780a013e3b708729e8053aeeb0d76ca545d06cd"
+  integrity sha512-w8Ouih9Y83Yvi/oscXMg6dzmKgOLqlwYHqUnr3K7bFZUUxywuCHPa3AR2AwBPCjnIrBn2rH6m1O5/Ahkv8EvZQ==
+
 array-union@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/array-union/-/array-union-2.1.0.tgz#b798420adbeb1de828d84acd8a2e23d3efe85e8d"
