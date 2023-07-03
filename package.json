@@ -22,6 +22,9 @@
 		"typescript": "4.7.4"
 	},
 	"dependencies": {
-		"@viz-js/viz": "^3.0.1"
+		"@viz-js/viz": "^3.0.1",
+		"markmap-common": "^0.14.2",
+		"markmap-lib": "^0.14.4",
+		"markmap-view": "^0.14.4"
 	}
 }
